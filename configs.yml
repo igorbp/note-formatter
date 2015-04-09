@@ -1,0 +1,15 @@
+general:
+  pt-BR:
+    date_time: "Data e hora:"
+    location: "Local:"
+    attendees: "Participantes:"
+    duration: "Duração:"
+    tasks: "Tarefas:"
+  markdown:
+    "*": "* "
+    ">": " > "
+ata_tcc:
+  time: "15:30"
+  location: "Sala 451 - Instituto de Computação"
+  duration: "1:00"
+  attendees: "Igor Barbosa, Tiago Cândido, Raphael Guerra"

@@ -1,0 +1,24 @@
+Data e hora: 2015-04-06 15:30
+
+Local: Sala 451 - Instituto de Computação
+
+Duração: 1:00
+
+Participantes: Igor Barbosa, Tiago Cândido, Raphael Guerra
+
+
+Tarefas:
+
+*  Tirar as comportamento dinâmico dinamitas
+*  Arquitetura física descreve apenas comunicação entre o hardware
+*  Incluir no COTS:
+ >  Rails
+ >  Mysql
+ >  Phonegap/Ionic
+ >  Moodle
+ >  Conexão UFF
+ >  Travis CI
+*  Escrever Justificar exceto fatores humanos e análise de riscos
+*  Implementa rastreabilidade, com uma tabela
+*  Verificar documentação estilo doxygen
+*  Fazer autenticação direta com o Iduff
