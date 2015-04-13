@@ -1,0 +1,20 @@
+#!/usr/bin/env ruby
+
+require 'optparse'
+
+options = {}
+OptionParser.new do |opts|
+  opts.banner = "Usage: note_formatter [options]"
+
+  opts.on("-nNOTE_PATH", "--note_path=NOTE_PATH", "Note path") do |n|
+    options[:note_path] = n
+  end
+
+  opts.on("-h", "--help", "Prints this help") do
+    puts opts
+    exit
+  end
+end.parse!
+
+require 'note_formatter'
+puts NoteFormatter.test(options)
