@@ -6,7 +6,6 @@ require 'note_formatter/note'
 module NoteFormatter
 
   def self.test(options)
-    "NotePath is #{options[:note_path]}"
 
     f = File.open(options[:note_path], "r")
 

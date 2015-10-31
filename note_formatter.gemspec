@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'note_formatter'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = Date.today.to_s
   s.summary     = "A note formatter"
   s.description = "Formats a simple quick note txt file into a more complete one with location, duration, atendees and tasks."

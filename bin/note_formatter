@@ -17,4 +17,4 @@ OptionParser.new do |opts|
 end.parse!
 
 require 'note_formatter'
-puts NoteFormatter.test(options)
+raise OptionParser::MissingArgument, 'You need to specify the note path with -n option. See note_formatter -h for help.'if options[:note_path].nil?
