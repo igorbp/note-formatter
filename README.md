@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/note_formatter.svg)](https://badge.fury.io/rb/note_formatter)
 # Note Formatter
 I made this ruby script during the development of my final project at UFF - Universidade Federal Fluminense. I needed to format the quick notes that we took during our meetings into a more complete txt file. 
 
