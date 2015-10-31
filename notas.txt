@@ -1,15 +1,11 @@
-!2015-04-06
-*Tirar as comportamento dinâmico dinamitas
-*Arquitetura física descreve apenas comunicação entre o hardware
-*Incluir no COTS:
->Rails
->Mysql
->Phonegap/Ionic
->Moodle
->Conexão UFF
->Travis CI
-*Escrever Justificar exceto fatores humanos e análise de riscos
-*Implementa rastreabilidade, com uma tabela
-*Verificar documentação estilo doxygen
-*Fazer autenticação direta com o Iduff
+!2015-05-05
+*A new task
+*Other task
+*Some task
+!2015-05-11
+*New task
+*Task list:
+>First item
+>Second item
+*Task
 $
